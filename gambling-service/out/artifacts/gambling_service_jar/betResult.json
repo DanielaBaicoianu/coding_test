@@ -1,0 +1,17 @@
+{
+  "reward": 16000.0,
+  "applied_winning_combinations": [
+    {
+      "A": "same_symbol_4_times, same_symbols_horizontally",
+      "B": "same_symbol_4_times, same_symbols_horizontally"
+    }
+  ],
+  "applied_bonus_symbol": "+1000",
+  "matrix": [
+    [
+      "[A, A, A]",
+      "[B, B, B]",
+      "[B, +1000, A]"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "reward": 12500.0,
+  "applied_winning_combinations": [
+    {
+      "B": "same_symbol_3_times"
+    }
+  ],
+  "applied_bonus_symbol": "5X"
+}
